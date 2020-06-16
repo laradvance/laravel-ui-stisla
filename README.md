@@ -1,3 +1,5 @@
+[![StyleCI](https://github.styleci.io/repos/261896649/shield?branch=master)](https://github.styleci.io/repos/261896649)
+
 # laravel-ui-stisla
 
 ## Table of contents
