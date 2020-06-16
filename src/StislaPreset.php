@@ -48,7 +48,7 @@ class StislaPreset extends Preset
             'moment' => '^2.24',
             'bootstrap' => '^4.3.1',
             'jquery' => '^3.4',
-            'jquery.nicescroll' => '^3.7'
+            'jquery.nicescroll' => '^3.7',
         ] + $packages;
     }
 
@@ -66,7 +66,7 @@ class StislaPreset extends Preset
     }
 
     /**
-     * Update the JS
+     * Update the JS.
      *
      * @return void
      */
@@ -76,7 +76,7 @@ class StislaPreset extends Preset
     }
 
     /**
-     * Update the SCSS
+     * Update the SCSS.
      *
      * @return void
      */
@@ -88,7 +88,7 @@ class StislaPreset extends Preset
     }
 
     /**
-     * Update the default layout
+     * Update the default layout.
      *
      * @return void
      */
@@ -100,7 +100,7 @@ class StislaPreset extends Preset
     }
 
     /**
-     * Update the webpack.mix.js
+     * Update the webpack.mix.js.
      *
      * @return void
      */
@@ -113,7 +113,7 @@ class StislaPreset extends Preset
     }
 
     /**
-     * Copy a directory
+     * Copy a directory.
      *
      * @param $source
      * @param $destination

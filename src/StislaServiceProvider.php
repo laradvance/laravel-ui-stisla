@@ -2,8 +2,8 @@
 
 namespace PotetoDev\LaravelUiStisla;
 
-use Laravel\Ui\UiCommand;
 use Illuminate\Support\ServiceProvider;
+use Laravel\Ui\UiCommand;
 
 class StislaServiceProvider extends ServiceProvider
 {
