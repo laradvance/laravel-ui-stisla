@@ -17,7 +17,7 @@ Laravel UI Stisla is Laravel custom dashboard UI that will be helpful for many a
 
 ## Installation
 ```
-composer require poteto-dev/laravel-ui-stisla --dev
+composer require laradvance/ui --dev
 ```
 
 ## Usage
