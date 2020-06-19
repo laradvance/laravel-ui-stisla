@@ -5,8 +5,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Poteto Dev",
-            "email": "tech@poteto.dev"
+            "name": "Laradvance",
+            "email": "muhlisabdi@gmail.com"
         }
     ],
     "require": {
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "PotetoDev\\LaravelUiStisla\\": "src/"
+            "Laradvance\\LaravelUiStisla\\": "src/"
         }
     },
     "config": {
