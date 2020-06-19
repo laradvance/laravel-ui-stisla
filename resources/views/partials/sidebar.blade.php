@@ -3,7 +3,7 @@
         <a href="">{{ env('APP_NAME') }}</a>
     </div>
     <div class="sidebar-brand sidebar-brand-sm">
-        <a href="">St</a>
+        <a href="">LA</a>
     </div>
     <ul class="sidebar-menu">
         <li class="menu-header">Dashboard</li>
