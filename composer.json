@@ -27,7 +27,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "PotetoDev\\LaravelUiStisla\\StislaServiceProvider"
+                "Laradvance\\LaravelUiStisla\\StislaServiceProvider"
             ]
         }
     },
