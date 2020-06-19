@@ -97,6 +97,10 @@ class StislaPreset extends Preset
         static::copyDirectory(static::RESOURCE_PATH.'views/layouts', resource_path('views/layouts'));
         static::copyDirectory(static::RESOURCE_PATH.'views/partials', resource_path('views/partials'));
         static::copyDirectory(static::RESOURCE_PATH.'views/auth', resource_path('views/auth'));
+        copy(
+            __DIR__.'/../resources/views/home.blade.php',
+            base_path('resources/views/home.blade.php')
+        );
     }
 
     /**
