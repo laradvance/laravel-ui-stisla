@@ -1,6 +1,6 @@
 <?php
 
-namespace PotetoDev\LaravelUiStisla;
+namespace Laradvance\LaravelUiStisla;
 
 use Illuminate\Filesystem\Filesystem;
 use Laravel\Ui\Presets\Preset;
