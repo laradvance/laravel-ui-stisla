@@ -1,6 +1,6 @@
 <?php
 
-namespace PotetoDev\LaravelUiStisla;
+namespace Laradvance\LaravelUiStisla;
 
 use Illuminate\Support\ServiceProvider;
 use Laravel\Ui\UiCommand;
